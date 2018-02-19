@@ -1,0 +1,20 @@
+[user]
+    name = Agnieszka
+    email = agnieszka.jureczko@o2.pl
+[push]
+    default = matching
+[alias]
+    ci = commit
+    st = status
+    co = checkout
+    di = diff
+
+    rb = rebase
+    ri = rebase --interactive
+
+    bra = branch
+    brad = branch -d
+[core]
+    editor = vim
+[color]
+    diff = auto
